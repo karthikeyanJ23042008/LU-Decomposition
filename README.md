@@ -33,7 +33,8 @@ Developed by: Karthikeyan J
 RegisterNumber: 26009634
 */
 ```
-<imps://github.com/user-attachments/assets/0e2cfb53-a688-45f9-a6ef-43fde06d360e" />
+<img width="1227" height="841" alt="image" src="https://github.com/user-attachments/assets/18993cfa-92a3-4807-926e-5a3d78f20dd3" />
+
 
 ## Output:
 

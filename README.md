@@ -23,6 +23,7 @@ RegisterNumber: 26009634
 */
 ```
 <img width="1472" height="810" alt="image" src="https://github.com/user-attachments/assets/67886dd5-5f20-4381-9c9e-ae698f9cad52" />
+
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
@@ -33,9 +34,11 @@ RegisterNumber: 26009634
 */
 ```
 <imps://github.com/user-attachments/assets/0e2cfb53-a688-45f9-a6ef-43fde06d360e" />
+
 ## Output:
-![lu decomposition]()
+
 <img width="1402" height="547" alt="image" src="https://github.com/user-attachments/assets/a1315ba2-e291-4673-af89-dbef96380f2b" />
+
 <img width="1380" height="381" alt="image" src="https://github.com/user-attachments/assets/5238dfb2-7d13-446c-bff2-c721380e6845" />
 
 
